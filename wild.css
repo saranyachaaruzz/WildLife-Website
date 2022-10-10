@@ -1,0 +1,36 @@
+body{
+
+    background-image: url(https://gumlet.assettype.com/freepressjournal/2022-03/030550d9-1def-47e6-bfaf-90dc4405bb2e/info_info_graphic_2nd_lead_march_3.jpg?format=webp&w=480&dpr=2.6);
+
+    background-repeat: no-repeat;
+    
+    height: 700px;
+
+    background-size: cover;
+    
+}
+
+h6{
+
+    color: white;
+}
+
+h4{
+
+    color: black;
+    
+    margin-left: 30px;
+    margin-top:-200px;
+}
+
+#d1{
+
+    background-image: url(https://worldanimalfoundation.org/wp-content/uploads/2022/07/peacock-bird-spring-animal-54108-Review.jpeg);
+
+    background-repeat: no-repeat;
+    
+    height: 500px;
+
+    background-size: cover;
+    
+}
